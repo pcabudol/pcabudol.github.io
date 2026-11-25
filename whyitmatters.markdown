@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Our Team Chose This Technology
+title: Why It Matters
 permalink: /whyitmatters/
 ---
 
