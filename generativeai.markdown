@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Generative AI
-permalink: /generativeai/
+permalink: /applications/generativeai/
 ---
 
 ## Generative AI in Healthcare
