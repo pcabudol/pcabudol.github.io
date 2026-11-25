@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction
-permalink: /index/
+permalink: /
 ---
 
 ## Introduction to Artificial Intelligence in Healthcare
