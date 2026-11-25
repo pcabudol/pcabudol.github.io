@@ -16,3 +16,10 @@ These technologies can help identify health risks earlier, reduce administrative
     title="YouTube video player"
     allowfullscreen>
 </iframe>
+
+<iframe
+    style="width:100%; aspect-ratio:16/9; border:0; border-radius:10px;"
+    src="https://www.youtube.com/embed/qfBo-EES5-Q"
+    title="YouTube video player"
+    allowfullscreen>
+</iframe>
