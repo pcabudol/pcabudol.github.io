@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Introduction
@@ -7,8 +6,6 @@ permalink: /introduction/
 
 ## Introduction to Artificial Intelligence in Healthcare
 
-
-Introduction to Artificial Intelligence in Healthcare
 
 Over the last two decades, there have been major technological advancements in the medical industry across a variety of applications. One technology that has significantly changed how medicine is practiced is artificial intelligence (AI).
 AI in healthcare uses machine learning, data analytics, and natural language processing to analyze medical information, identify patterns, predict potential health outcomes, and automate administrative tasks. These systems can analyze information such as a patient's medical history, genetic information, laboratory results, medical images, and lifestyle habits.
