@@ -5,7 +5,7 @@ permalink: /introduction/
 ---
 
 ## Introduction to Artificial Intelligence in Healthcare
-
+![AI in Healthcare](/AI-heathcare-1.webp)
 
 Over the last two decades, there have been major technological advancements in the medical industry across a variety of applications. One technology that has significantly changed how medicine is practiced is artificial intelligence (AI).
 
