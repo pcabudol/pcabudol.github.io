@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Predictive AI
-permalink: /predictiveai/
+permalink: /applications/predictiveai/
 ---
 
 ## Predictive AI in Healthcare
