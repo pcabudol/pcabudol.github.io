@@ -38,7 +38,10 @@ header_pages:
   - index.markdown
   - whyitmatters.markdown
   - applications.markdown
+  - predictiveai.markdown
+  - generativeai.markdown
   - ethics.markdown
+  - socialconcerns.markdown
   - reccomendations.markdown
   - references.markdown
   - about.markdown
