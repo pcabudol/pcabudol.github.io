@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "AI in Healthcare"
 date:   2026-09-21 23:21:30 -0400
 categories: jekyll update
 ---
